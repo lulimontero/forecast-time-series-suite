@@ -11,3 +11,5 @@ Solución
 - Modelos pre entrenados
 - Librería TimeSeriesSuite: multifrecuencia, multidominio (varios datasets), multihorizonte, dimensión variable, zero shot forecasting (sin historico). 
   
+Salesforce: Moirai
+Amazon: Chronos
